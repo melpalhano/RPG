@@ -1,0 +1,32 @@
+C:\Users\MichelinJV\Desktop\Compartilhamento\Projetos DIO\rpg\bin\Debug\net5.0\rpg.exe
+C:\Users\MichelinJV\Desktop\Compartilhamento\Projetos DIO\rpg\bin\Debug\net5.0\rpg.deps.json
+C:\Users\MichelinJV\Desktop\Compartilhamento\Projetos DIO\rpg\bin\Debug\net5.0\rpg.runtimeconfig.json
+C:\Users\MichelinJV\Desktop\Compartilhamento\Projetos DIO\rpg\bin\Debug\net5.0\rpg.runtimeconfig.dev.json
+C:\Users\MichelinJV\Desktop\Compartilhamento\Projetos DIO\rpg\bin\Debug\net5.0\rpg.dll
+C:\Users\MichelinJV\Desktop\Compartilhamento\Projetos DIO\rpg\bin\Debug\net5.0\ref\rpg.dll
+C:\Users\MichelinJV\Desktop\Compartilhamento\Projetos DIO\rpg\bin\Debug\net5.0\rpg.pdb
+C:\Users\MichelinJV\Desktop\Compartilhamento\Projetos DIO\rpg\obj\Debug\net5.0\rpg.csproj.AssemblyReference.cache
+C:\Users\MichelinJV\Desktop\Compartilhamento\Projetos DIO\rpg\obj\Debug\net5.0\rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MichelinJV\Desktop\Compartilhamento\Projetos DIO\rpg\obj\Debug\net5.0\rpg.AssemblyInfoInputs.cache
+C:\Users\MichelinJV\Desktop\Compartilhamento\Projetos DIO\rpg\obj\Debug\net5.0\rpg.AssemblyInfo.cs
+C:\Users\MichelinJV\Desktop\Compartilhamento\Projetos DIO\rpg\obj\Debug\net5.0\rpg.csproj.CoreCompileInputs.cache
+C:\Users\MichelinJV\Desktop\Compartilhamento\Projetos DIO\rpg\obj\Debug\net5.0\rpg.dll
+C:\Users\MichelinJV\Desktop\Compartilhamento\Projetos DIO\rpg\obj\Debug\net5.0\ref\rpg.dll
+C:\Users\MichelinJV\Desktop\Compartilhamento\Projetos DIO\rpg\obj\Debug\net5.0\rpg.pdb
+C:\Users\MichelinJV\Desktop\Compartilhamento\Projetos DIO\rpg\obj\Debug\net5.0\rpg.genruntimeconfig.cache
+C:\Users\mlssp\OneDrive\Área de Trabalho\Abstraindo-um-Jogo-de-RPG-main\bin\Debug\net5.0\rpg.exe
+C:\Users\mlssp\OneDrive\Área de Trabalho\Abstraindo-um-Jogo-de-RPG-main\bin\Debug\net5.0\rpg.deps.json
+C:\Users\mlssp\OneDrive\Área de Trabalho\Abstraindo-um-Jogo-de-RPG-main\bin\Debug\net5.0\rpg.runtimeconfig.json
+C:\Users\mlssp\OneDrive\Área de Trabalho\Abstraindo-um-Jogo-de-RPG-main\bin\Debug\net5.0\rpg.runtimeconfig.dev.json
+C:\Users\mlssp\OneDrive\Área de Trabalho\Abstraindo-um-Jogo-de-RPG-main\bin\Debug\net5.0\rpg.dll
+C:\Users\mlssp\OneDrive\Área de Trabalho\Abstraindo-um-Jogo-de-RPG-main\bin\Debug\net5.0\ref\rpg.dll
+C:\Users\mlssp\OneDrive\Área de Trabalho\Abstraindo-um-Jogo-de-RPG-main\bin\Debug\net5.0\rpg.pdb
+C:\Users\mlssp\OneDrive\Área de Trabalho\Abstraindo-um-Jogo-de-RPG-main\obj\Debug\net5.0\rpg.csproj.AssemblyReference.cache
+C:\Users\mlssp\OneDrive\Área de Trabalho\Abstraindo-um-Jogo-de-RPG-main\obj\Debug\net5.0\rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlssp\OneDrive\Área de Trabalho\Abstraindo-um-Jogo-de-RPG-main\obj\Debug\net5.0\rpg.AssemblyInfoInputs.cache
+C:\Users\mlssp\OneDrive\Área de Trabalho\Abstraindo-um-Jogo-de-RPG-main\obj\Debug\net5.0\rpg.AssemblyInfo.cs
+C:\Users\mlssp\OneDrive\Área de Trabalho\Abstraindo-um-Jogo-de-RPG-main\obj\Debug\net5.0\rpg.csproj.CoreCompileInputs.cache
+C:\Users\mlssp\OneDrive\Área de Trabalho\Abstraindo-um-Jogo-de-RPG-main\obj\Debug\net5.0\rpg.dll
+C:\Users\mlssp\OneDrive\Área de Trabalho\Abstraindo-um-Jogo-de-RPG-main\obj\Debug\net5.0\ref\rpg.dll
+C:\Users\mlssp\OneDrive\Área de Trabalho\Abstraindo-um-Jogo-de-RPG-main\obj\Debug\net5.0\rpg.pdb
+C:\Users\mlssp\OneDrive\Área de Trabalho\Abstraindo-um-Jogo-de-RPG-main\obj\Debug\net5.0\rpg.genruntimeconfig.cache
